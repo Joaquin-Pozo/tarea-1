@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include "TDA_carga/TDA_carga.h"
 #include "TDA_proceso/TDA_proceso.h"
+#include "TDA_planificacion/TDA_planificacion.h"
 /*
 Para ejecutar el main, se debe usar esta linea en la consola de comandos:
-gcc procesamiento_cargas.c TDA_carga/TDA_carga_implementacion.c TDA_proceso/TDA_proceso_implementacion.c -o cargas
+gcc procesamiento_cargas.c TDA_carga/TDA_carga_implementacion.c TDA_proceso/TDA_proceso_implementacion.c TDA_planificacion/TDA_planificacion_implementacion.c -o cargas
 */
 
 int main() {
@@ -27,10 +28,13 @@ int main() {
     agregar_carga(p1, c1_2);
     agregar_carga(p1, c1_3);
 
-    printf("Proceso Número %i:\n", p1->id);
-    for (int i = 0; i < p1->cardinalidad; i++) {
-        printf("Carga %i: Orden: %i, Tiempo: %i.\n", p1->cargas[i].id, p1->cargas[i].orden, p1->cargas[i].tiempo);
-    }
+    planificacion *pl = crea_planificacion(3);
+
+    agregar_proceso(pl, p1);
+
+    mostrar_planificacion(pl);
+
+    destruye_planificacion(pl);
 
     destruye_proceso(p1);
 
