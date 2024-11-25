@@ -11,8 +11,8 @@ int **leerArchivo (char nombreArchivo[], int *cantidadCargas, int *cantidadProce
 	}
     */
     if (archivo == NULL) {
-    fprintf(stderr, "Error: El archivo '%s' no existe en la carpeta 'assets'. Verifica el nombre e intenta nuevamente.\n", nombreArchivo);
-    exit(EXIT_FAILURE);
+        fprintf(stderr, "Error: El archivo '%s' no existe en la carpeta 'assets'. Verifica el nombre e intenta nuevamente.\n", nombreArchivo);
+        exit(EXIT_FAILURE);
     }   
     
     // Lee la cantidad de cargas y procesos

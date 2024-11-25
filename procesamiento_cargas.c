@@ -27,7 +27,11 @@ int main(int argc, char *argv[]) {
     liberarMemoria(cargasIniciales, cantidadCargas);
 
 
-    
+    // crear conjunto con todas las soluciones
+
+
+
+    // aplicar restricciones al conjunto de soluciones
 
 
     return 0;
