@@ -4,12 +4,6 @@ int **leerArchivo (char nombreArchivo[], int *cantidadCargas, int *cantidadProce
     FILE *archivo = fopen(nombreArchivo, "r");
 
     // Comprueba el nombre del archivo ingresado
-    /*
-    if (archivo == NULL) {
-    	printf("Error al abrir archivo %s\n", nombreArchivo);
-        return NULL;
-	}
-    */
     if (archivo == NULL) {
         fprintf(stderr, "Error: El archivo '%s' no existe en la carpeta 'assets'. Verifica el nombre e intenta nuevamente.\n", nombreArchivo);
         exit(EXIT_FAILURE);
@@ -50,4 +44,11 @@ void imprimirCargas(int **cargasIniciales, int cantidadCargas, int cantidadProce
                    cargasIniciales[i][2 * j + 1]); // tiempo
         }
     }
+}
+
+int factorial(int n) {
+    if (n == 1 || n == 0) {
+        return 1;
+    }
+    return n * factorial(n - 1);
 }
