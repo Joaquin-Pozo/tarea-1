@@ -17,28 +17,36 @@ int main(int argc, char *argv[]) {
 
     int cantidadCargas, cantidadProcesos;
 
-    int **cargasIniciales = leerArchivo(nombreArchivo, &cantidadCargas, &cantidadProcesos);
+    int **conjuntoInicial = leerArchivo(nombreArchivo, &cantidadCargas, &cantidadProcesos);
 
     printf("Datos de las cargas:\n");
 
-    imprimirCargas(cargasIniciales, cantidadCargas, cantidadProcesos);
-
-    liberarMemoria(cargasIniciales, cantidadCargas);
+    //imprimirCargas(conjuntoInicial, cantidadCargas, cantidadProcesos);
 
     // Almacena memoria para un conjunto con todas las soluciones de O ~ (m * n!)
     int cantidadSoluciones = cantidadProcesos * factorial(cantidadCargas);
     int ***conjuntoSoluciones = (int***)malloc(cantidadSoluciones * sizeof(int**));
 
-    // Crea el conjunto con todas las soluciones;
+    // Crea el conjunto con todas las posibles soluciones;
     for (int i = 0; i < cantidadSoluciones; i++) {
         conjuntoSoluciones[i] = (int**)malloc(cantidadCargas * sizeof(int*));
         for (int j = 0; j < cantidadCargas; j++) {
             conjuntoSoluciones[i][j] = (int*)malloc(2 * (cantidadProcesos) * sizeof(int));
-            
+            for (int k = 0; k < 2 * cantidadProcesos; k += 2) {
+                conjuntoSoluciones[i][j][k] = j + 1;
+                conjuntoSoluciones[i][j][k + 1] = conjuntoInicial[j][k + 1];
+            }
         }
     }
 
-
+    for (int i = 0; i < cantidadSoluciones; i++) {
+        printf("\nSolución %d:\n\n", i + 1);
+        imprimirCargas(conjuntoSoluciones[i], cantidadCargas, cantidadProcesos);
+    }
+    for (int i = 0; i < cantidadSoluciones; i++) {
+        liberarMemoria(conjuntoSoluciones[i], cantidadCargas);
+    }
+    liberarMemoria(conjuntoInicial, cantidadCargas);
 
     // Aplicar restricciones al conjunto de soluciones
 
