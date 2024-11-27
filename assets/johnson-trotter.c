@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
+#pragma once
 
 // Direcciones de movimiento
 #define IZQUIERDA_A_DERECHA true
