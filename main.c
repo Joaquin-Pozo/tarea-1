@@ -3,9 +3,10 @@
 #include <string.h>
 #include "assets/lectura_archivos.c"
 #include "assets/johnson-trotter.c"
+#include "assets/procesamiento_cargas.c"
 /*
 Para ejecutar el main, se debe usar esta linea en la consola de comandos:
-gcc procesamiento_cargas.c -o cargas
+gcc main.c -o cargas
 */
 
 // nombre archivo, nombre archivo que desea leer
@@ -24,25 +25,13 @@ int main(int argc, char *argv[]) {
 
     imprimirCargas(conjuntoInicial, cantidadCargas, cantidadProcesos);
 
-    // Generar conjunto de soluciones
-    int permutaciones = factorial(cantidadCargas);
-    int **conjuntoSoluciones = generarPermutaciones(cantidadCargas);
+    // Generar procesos
+    Proceso *procesos = generarProcesos(cantidadCargas, cantidadProcesos, conjuntoInicial);
 
-    printf("\nPermutaciones generadas:\n");
-    for (int i = 0; i < permutaciones; i++) {
-        for (int j = 0; j < cantidadCargas; j++) {
-            printf("%d ", conjuntoSoluciones[i][j]);
-        }
-        printf("\n");
-    }
+    // Aplicar restricciones y generar solución unificada
+    aplicarRestricciones(procesos, cantidadProcesos, cantidadCargas);
 
+    // Liberar memoria
     liberarMemoria(conjuntoInicial, cantidadCargas);
-
-    // Liberar memoria del conjunto de soluciones
-    for (int i = 0; i < permutaciones; i++) {
-        free(conjuntoSoluciones[i]);
-    }
-    free(conjuntoSoluciones);
-
-    return 0;
+    liberarProcesos(procesos, cantidadProcesos);
 }
