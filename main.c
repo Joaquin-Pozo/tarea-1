@@ -4,10 +4,6 @@
 #include "assets/lectura_archivos.c"
 #include "assets/johnson-trotter.c"
 #include "assets/procesamiento_cargas.c"
-/*
-Para ejecutar el main, se debe usar esta linea en la consola de comandos:
-gcc main.c -o cargas
-*/
 
 // nombre archivo, nombre archivo que desea leer
 int main(int argc, char *argv[]) {
@@ -26,12 +22,18 @@ int main(int argc, char *argv[]) {
     imprimirCargas(conjuntoInicial, cantidadCargas, cantidadProcesos);
 
     // Generar procesos
-    Proceso *procesos = generarProcesos(cantidadCargas, cantidadProcesos, conjuntoInicial);
 
-    // Aplicar restricciones y generar solución unificada
-    aplicarRestricciones(procesos, cantidadProcesos, cantidadCargas);
+    int permutaciones = factorial(cantidadCargas);
+
+    printf("\nPermutaciones : %d\n", permutaciones);
+
+    Proceso *procesos = generarProcesos(cantidadCargas, cantidadProcesos, conjuntoInicial, permutaciones);
+
+    mostrarProcesos(procesos, cantidadCargas, cantidadProcesos, permutaciones);
+
+
 
     // Liberar memoria
     liberarMemoria(conjuntoInicial, cantidadCargas);
-    liberarProcesos(procesos, cantidadProcesos);
+    liberarProcesos(procesos, cantidadProcesos, cantidadCargas, permutaciones);
 }

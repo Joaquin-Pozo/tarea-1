@@ -22,7 +22,6 @@ int factorial(int n) {
     }
     return n * factorial(n - 1);
 }
-
 // Busca la posición de un nuḿero móvil en el arreglo
 int buscarPosicion(int arreglo[], int n, int movil) {
     for (int i = 0; i < n; i++) {
@@ -57,9 +56,7 @@ int obtenerMovil(int arreglo[], bool direcciones[], int n) {
 }
 
 // Genera todas las permutaciones y las guarda en un arreglo
-int **generarPermutaciones(int n) {
-    int permutaciones = factorial(n);
-
+int **generarPermutaciones(int n, int permutaciones) {
     // Arreglo para guardar todas las permutaciones
     int **resultado = (int **)malloc(permutaciones * sizeof(int *));
     for (int i = 0; i < permutaciones; i++) {

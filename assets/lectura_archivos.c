@@ -40,7 +40,7 @@ void imprimirCargas(int **cargasIniciales, int cantidadCargas, int cantidadProce
         printf("Carga %d:\n", i + 1);
         for (int j = 0; j < cantidadProcesos; j++) {
             printf("  Proceso %d: Tiempo %d\n", 
-                   cargasIniciales[i][2 * j], // id
+                   cargasIniciales[i][2 * j], // orden
                    cargasIniciales[i][2 * j + 1]); // tiempo
         }
     }
