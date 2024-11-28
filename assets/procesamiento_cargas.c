@@ -12,7 +12,7 @@ typedef struct {
     int cantidadCargas;
 } Proceso;
 
-// Función que genera los procesos con las permutaciones de las cargas
+// Función que genera un arreglo de procesos con el conjunto de permutaciones de las cargas, orden, tiempo y cantidad de cargas del conjunto inicial.
 Proceso *generarProcesos(int cantidadCargas, int cantidadProcesos, int **conjuntoInicial, int permutaciones) {
     // Asigna memoria para un arreglo de procesos
     Proceso *procesos = (Proceso *)malloc(cantidadProcesos * sizeof(Proceso));
@@ -57,43 +57,11 @@ Proceso *generarProcesos(int cantidadCargas, int cantidadProcesos, int **conjunt
 
     return procesos;
 }
-/*
 
-// Función que aplica las restricciones y genera una solución optimizada
 void aplicarRestricciones(Proceso *procesos, int cantidadCargas, int cantidadProcesos) {
-    int tiemposFinales[cantidadCargas];
-    for (int i = 0; i < cantidadCargas; i++) {
-        tiemposFinales[i] = 0;
-    }
-    int tiempoTotal = 0;
-    printf("\nSolución Optimizada:\n");
-    // Recorre todos los procesos primero
-    for (int p = 0; p < cantidadProcesos; p++) {
-        printf("Proceso %d:\n", p + 1);
-
-        // Dentro de cada proceso, recorre las cargas en el orden definido
-        for (int c = 0; c < cantidadCargas; c++) {
-            int cargaActual = procesos[p].cargas[0][c];  // Obtiene la carga actual
-            int tiempoInicio = tiemposFinales[cargaActual - 1]; // Tiempo de inicio para esta carga
-            int tiempoDuracion = procesos[p].tiempos[cargaActual - 1]; // Duración de la carga
-            int tiempoDuracion = procesos[p].tiempos[cargaActual - 1][p]; // Duración de la carga
-            int tiempoFin = tiempoInicio + tiempoDuracion; // Calcula el tiempo final
-            tiemposFinales[cargaActual - 1] = tiempoFin; // Actualiza el tiempo de fin
-
-            // Actualiza el tiempo total si el tiempo de fin de esta carga es el mayor hasta ahora
-            if (tiempoFin > tiempoTotal) {
-                tiempoTotal = tiempoFin;
-            }
-
-            printf("  Carga %d: Inicio=%d, Duración=%d, Fin=%d\n", 
-                   cargaActual, tiempoInicio, tiempoDuracion, tiempoFin);
-        }
-    }
-
-    // Muestra el tiempo total
-    printf("\nTiempo total de procesamiento: %d\n", tiempoTotal);
+    
 }
-*/
+
 
 void mostrarProcesos(Proceso *procesos, int cantidadCargas, int cantidadProcesos, int permutaciones) {
     for (int p = 0; p < cantidadProcesos; p++) {
@@ -137,9 +105,6 @@ void mostrarProcesos(Proceso *procesos, int cantidadCargas, int cantidadProcesos
 // Libera memoria de los procesos
 void liberarProcesos(Proceso *procesos, int cantidadProcesos, int cantidadCargas, int permutaciones) {
     for (int p = 0; p < cantidadProcesos; p++) {
-        for (int i = 0; i < permutaciones; i++){ 
-            free(procesos[p].cargas[i]); 
-        }
         free(procesos[p].orden);
         free(procesos[p].tiempos);
         free(procesos[p].cargas);
