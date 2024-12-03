@@ -58,9 +58,62 @@ Proceso *generarProcesos(int cantidadCargas, int cantidadProcesos, int **conjunt
     return procesos;
 }
 
-void aplicarRestricciones(Proceso *procesos, int cantidadCargas, int cantidadProcesos) {
-    
+void aplicarRestricciones(Proceso *procesos, int cantidadCargas, int cantidadProcesos, int permutaciones) {
+    for (int p = 0; p < cantidadProcesos; p++) {
+        // Crear un arreglo temporal para almacenar las permutaciones válidas
+        int **permutacionesValidas = (int **)malloc(permutaciones * sizeof(int *));
+        int indiceValido = 0;
+
+        // Iterar sobre cada permutación
+        for (int c = 0; c < permutaciones; c++) {
+            bool esValida = true;
+            int tiempoFin[cantidadCargas];
+            memset(tiempoFin, 0, sizeof(tiempoFin));
+
+            // Validar la permutación según las restricciones
+            for (int i = 0; i < cantidadCargas; i++) {
+                int carga = procesos[p].cargas[c][i] - 1;
+
+                // Validar que no haya conflictos en tiempos entre procesos simultáneos
+                for (int j = 0; j < p; j++) {
+                    // Verifica que no haya superposición de tiempos
+                    if (tiempoFin[carga] > procesos[j].tiempos[carga][p]) {
+                        esValida = false;
+                        break;
+                    }
+                }
+
+                // Registrar el tiempo final para la carga en este proceso
+                tiempoFin[carga] = procesos[p].tiempos[carga][p];
+            }
+
+            // Si la permutación es válida, guárdala
+            if (esValida) {
+                permutacionesValidas[indiceValido] = (int *)malloc(cantidadCargas * sizeof(int));
+                memcpy(permutacionesValidas[indiceValido], procesos[p].cargas[c], cantidadCargas * sizeof(int));
+                indiceValido++;
+            }
+        }
+
+        // Liberar las permutaciones no válidas
+        // Ya que estamos creando nuevas permutaciones válidas, liberamos las originales.
+        for (int c = 0; c < permutaciones; c++) {
+            free(procesos[p].cargas[c]);
+        }
+        free(procesos[p].cargas);
+
+        // Reasignar las permutaciones válidas al proceso
+        procesos[p].cargas = (int **)malloc(indiceValido * sizeof(int *));
+        for (int i = 0; i < indiceValido; i++) {
+            procesos[p].cargas[i] = permutacionesValidas[i];
+        }
+
+        // Liberar la memoria de las permutaciones válidas
+        free(permutacionesValidas);
+    }
 }
+
+
 
 
 void mostrarProcesos(Proceso *procesos, int cantidadCargas, int cantidadProcesos, int permutaciones) {
