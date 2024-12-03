@@ -4,6 +4,7 @@
 #include "assets/lectura_archivos.c"
 #include "assets/johnson-trotter.c"
 #include "assets/procesamiento_cargas.c"
+#include "assets/procesamiento_cargasv2.c"
 
 // nombre archivo, nombre archivo que desea leer
 int main(int argc, char *argv[]) {
@@ -20,20 +21,26 @@ int main(int argc, char *argv[]) {
     printf("Datos de las cargas:\n");
 
     imprimirCargas(conjuntoInicial, cantidadCargas, cantidadProcesos);
+    
+    // Generar permutaciones: O~((cantidadCargas*cantidadProcesos)!)
+    //int permutaciones = factorial(cantidadCargas*cantidadProcesos);
+
+    Carga *arregloCargas = generarCargas(cantidadCargas, cantidadProcesos, conjuntoInicial);
+
+    mostrarCargas(arregloCargas, cantidadCargas, cantidadProcesos);
 
     // Generar procesos
-
-    int permutaciones = factorial(cantidadCargas);
-
-    printf("\nPermutaciones : %d\n", permutaciones);
-
+    /*
     Proceso *procesos = generarProcesos(cantidadCargas, cantidadProcesos, conjuntoInicial, permutaciones);
 
-    mostrarProcesos(procesos, cantidadCargas, cantidadProcesos, permutaciones);
+    // Aplicar restricciones a los procesos generados
+    aplicarRestricciones(procesos, cantidadCargas, cantidadProcesos, permutaciones);
 
+    mostrarProcesos(procesos, cantidadCargas, cantidadProcesos, permutaciones);
 
 
     // Liberar memoria
     liberarMemoria(conjuntoInicial, cantidadCargas);
     liberarProcesos(procesos, cantidadProcesos, cantidadCargas, permutaciones);
+    */
 }
