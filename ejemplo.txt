@@ -1,4 +1,4 @@
-Solución N°:1
+Solución N°: 1. Tiempo: 10.
 #31462:
 Permutación:
 8 1 4 2 6 7 9 3 5 
@@ -12,7 +12,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:2
+Solución N°: 2. Tiempo: 10.
 #31590:
 Permutación:
 1 4 8 7 2 6 3 5 9 
@@ -26,7 +26,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:3
+Solución N°: 3. Tiempo: 10.
 #31913:
 Permutación:
 1 8 4 7 6 2 3 9 5 
@@ -40,7 +40,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:4
+Solución N°: 4. Tiempo: 10.
 #32020:
 Permutación:
 1 4 8 6 7 2 9 3 5 
@@ -54,7 +54,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:5
+Solución N°: 5. Tiempo: 10.
 #32022:
 Permutación:
 1 4 8 6 7 2 3 5 9 
@@ -68,7 +68,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:6
+Solución N°: 6. Tiempo: 10.
 #32038:
 Permutación:
 8 1 4 6 7 2 9 3 5 
@@ -82,7 +82,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:7
+Solución N°: 7. Tiempo: 10.
 #32040:
 Permutación:
 8 1 4 6 7 2 3 5 9 
@@ -96,7 +96,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:8
+Solución N°: 8. Tiempo: 10.
 #32057:
 Permutación:
 1 8 4 6 2 7 3 9 5 
@@ -110,7 +110,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:9
+Solución N°: 9. Tiempo: 10.
 #34473:
 Permutación:
 1 8 4 6 2 7 9 5 3 
@@ -124,7 +124,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:10
+Solución N°: 10. Tiempo: 10.
 #34615:
 Permutación:
 1 8 4 7 6 2 5 3 9 
@@ -138,7 +138,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:11
+Solución N°: 11. Tiempo: 10.
 #34940:
 Permutación:
 1 4 8 7 2 6 5 9 3 
@@ -152,7 +152,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:12
+Solución N°: 12. Tiempo: 10.
 #35066:
 Permutación:
 8 1 4 2 6 7 5 9 3 
@@ -166,7 +166,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:13
+Solución N°: 13. Tiempo: 10.
 #55640:
 Permutación:
 4 8 1 2 6 7 5 9 3 
@@ -180,7 +180,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:14
+Solución N°: 14. Tiempo: 10.
 #55657:
 Permutación:
 8 4 1 2 7 6 5 3 9 
@@ -194,7 +194,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:15
+Solución N°: 15. Tiempo: 10.
 #55659:
 Permutación:
 8 4 1 2 7 6 9 5 3 
@@ -208,7 +208,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:16
+Solución N°: 16. Tiempo: 10.
 #55675:
 Permutación:
 4 1 8 2 7 6 5 3 9 
@@ -222,7 +222,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:17
+Solución N°: 17. Tiempo: 10.
 #55677:
 Permutación:
 4 1 8 2 7 6 9 5 3 
@@ -236,7 +236,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:18
+Solución N°: 18. Tiempo: 10.
 #55784:
 Permutación:
 4 8 1 7 2 6 5 9 3 
@@ -250,7 +250,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:19
+Solución N°: 19. Tiempo: 10.
 #56107:
 Permutación:
 4 1 8 7 6 2 5 3 9 
@@ -264,7 +264,7 @@ Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:20
+Solución N°: 20. Tiempo: 10.
 #56235:
 Permutación:
 8 4 1 6 2 7 9 5 3 
@@ -278,7 +278,7 @@ Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 
-Solución N°:21
+Solución N°: 21. Tiempo: 10.
 #58679:
 Permutación:
 8 4 1 6 2 7 3 9 5 
@@ -292,7 +292,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:22
+Solución N°: 22. Tiempo: 10.
 #58805:
 Permutación:
 4 1 8 7 6 2 3 9 5 
@@ -306,7 +306,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 
-Solución N°:23
+Solución N°: 23. Tiempo: 10.
 #59130:
 Permutación:
 4 8 1 7 2 6 3 5 9 
@@ -320,7 +320,7 @@ Carga 3 -> id_carga 1, id_proceso 3, orden 3, tiempo 3
 Carga 5 -> id_carga 2, id_proceso 3, orden 2, tiempo 3
 Carga 9 -> id_carga 3, id_proceso 3, orden 3, tiempo 1
 
-Solución N°:24
+Solución N°: 24. Tiempo: 10.
 #59272:
 Permutación:
 4 8 1 2 6 7 9 3 5 

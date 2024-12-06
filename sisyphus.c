@@ -161,6 +161,21 @@ int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
     return 1;
 }
 
+int calcularTiempo(int *permutacion, int n, cargas *first_list) {
+    int tiempoMayor = 0;
+    for (int i = 0; i < n; i += 3) {
+        int tiempo = 0;
+        for (int j = 0; j < 3; j++) {
+            int carga_index = permutacion[i + j] - 1;
+            tiempo += first_list[carga_index].tiempo;
+        }
+        if (tiempo > tiempoMayor) {
+            tiempoMayor = tiempo;
+        }
+    }
+    return tiempoMayor;
+}
+
 int main(int argc, char *argv[]) {
     int i, j, n, m;
     FILE *file = fopen(argv[1], "r");
@@ -196,7 +211,8 @@ int main(int argc, char *argv[]) {
     int cantidadSoluciones = 1;
     for (i = 0; i < num_permutaciones; i++) {
         if (cumpleOrdenDeProceso(permutaciones[i], true_n, first_list) == 1 && cargasSuperpuestas(permutaciones[i], true_n, first_list) == 1) {
-            printf("Solución N°:%d\n", cantidadSoluciones);
+            int tiempo = calcularTiempo(permutaciones[i], true_n, first_list);
+            printf("Solución N°: %d. Tiempo: %d.\n", cantidadSoluciones, tiempo);
             printf("#%d:\n", i + 1);
             imprimirPermutacion(permutaciones[i], true_n, first_list);
             printf("\n");
