@@ -131,7 +131,7 @@ void imprimirPermutacion(int *permutacion, int n, cargas *first_list) {
 Funcion para restringir el orden de las cargas; solo pueden ordenarse en sus respectivos procesos.
 */
 
-int cumpleOrden(int *permutacion, int n, cargas *first_list) {
+int cumpleOrdenDeProceso(int *permutacion, int n, cargas *first_list) {
     for (int i = 0; i < n; i = i += 3) {
         int proceso = i/3 + 1;
         for (int j = 0; j < 3; j++) {
@@ -139,6 +139,22 @@ int cumpleOrden(int *permutacion, int n, cargas *first_list) {
             // verifico que la carga se encuentre en el proceso correspondiente
             if (first_list[carga_index].id_proceso != proceso) {
                 return 0;     
+            }
+        }
+    }
+    return 1;
+}
+
+/*
+Funcion para restringir cargas superpuestas; un proceso solo puede trabajar en una carga a la vez.
+*/
+int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
+    for (int i = 3; i < n; i += 3) {
+        for (int j = 0; j < 3; j++) {
+            int carga_index_anterior = permutacion[i - 3 + j] - 1;
+            int carga_index_actual = permutacion[i + j] - 1;
+            if (first_list[carga_index_anterior].id_carga == first_list[carga_index_actual].id_carga) {
+                return 0;
             }
         }
     }
@@ -177,11 +193,14 @@ int main(int argc, char *argv[]) {
     int **permutaciones = generarPermutaciones(aux_list, true_n, &num_permutaciones);
 
     // imprimimos las permutaciones, usando la lista first_list que contiene todos los struct cargas
+    int cantidadSoluciones = 1;
     for (i = 0; i < num_permutaciones; i++) {
-        if (cumpleOrden(permutaciones[i], true_n, first_list) == 1) {
+        if (cumpleOrdenDeProceso(permutaciones[i], true_n, first_list) == 1 && cargasSuperpuestas(permutaciones[i], true_n, first_list) == 1) {
+            printf("Solución N°:%d\n", cantidadSoluciones);
             printf("#%d:\n", i + 1);
             imprimirPermutacion(permutaciones[i], true_n, first_list);
             printf("\n");
+            cantidadSoluciones++;
         }
     }
 
