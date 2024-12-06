@@ -127,6 +127,24 @@ void imprimirPermutacion(int *permutacion, int n, cargas *first_list) {
     }
 }
 
+/*
+Funcion para restringir el orden de las cargas; solo pueden ordenarse en sus respectivos procesos.
+*/
+
+int cumpleOrden(int *permutacion, int n, cargas *first_list) {
+    for (int i = 0; i < n; i = i += 3) {
+        int proceso = i/3 + 1;
+        for (int j = 0; j < 3; j++) {
+            int carga_index = permutacion[i + j] - 1;
+            // verifico que la carga se encuentre en el proceso correspondiente
+            if (first_list[carga_index].id_proceso != proceso) {
+                return 0;     
+            }
+        }
+    }
+    return 1;
+}
+
 int main(int argc, char *argv[]) {
     int i, j, n, m;
     FILE *file = fopen(argv[1], "r");
@@ -160,9 +178,11 @@ int main(int argc, char *argv[]) {
 
     // imprimimos las permutaciones, usando la lista first_list que contiene todos los struct cargas
     for (i = 0; i < num_permutaciones; i++) {
-        printf("#%d:\n", i + 1);
-        imprimirPermutacion(permutaciones[i], true_n, first_list);
-        printf("\n");
+        if (cumpleOrden(permutaciones[i], true_n, first_list) == 1) {
+            printf("#%d:\n", i + 1);
+            imprimirPermutacion(permutaciones[i], true_n, first_list);
+            printf("\n");
+        }
     }
 
 
