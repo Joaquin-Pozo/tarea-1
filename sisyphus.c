@@ -146,16 +146,55 @@ int cumpleOrdenDeProceso(int *permutacion, int n, cargas *first_list) {
 }
 
 /*
+Funcion para ordenar las cargas en sus procesos; las cargas deben ejecutarse en orden.
+Hasta el momento funciona pero solo ordenando cargas adyacentes. No he podido hacer un espacio entre cargas.
+*/
+void cumpleOrdenDeCargas(int *permutacion, int n, cargas *first_list) {
+    int tiemposInicio[n];
+    int tiemposFin[n];
+    for (int i = 0; i < n; i += 3) {
+        int proceso = i/3 + 1;
+        for (int j = 0; j < 3; j++) {
+            int carga_index = permutacion[i + j] - 1;
+            if (j != 0) {
+                int carga_index_anterior = permutacion[i + j - 1] - 1;
+                tiemposInicio[carga_index] = tiemposFin[carga_index_anterior];
+                tiemposFin[carga_index] = tiemposInicio[carga_index] + first_list[carga_index].tiempo;
+            } else {
+                tiemposInicio[carga_index] = 0;
+                tiemposFin[carga_index] = first_list[carga_index].tiempo;
+            }
+        }
+    }
+    for (int i = 0; i < n; i++) {
+        int carga_index = permutacion[i] - 1;
+        printf("Intervalo de tiempo de la Carga %d:\n", first_list[carga_index].id_carga);
+        printf("[%d, %d]\n", tiemposInicio[carga_index], tiemposFin[carga_index]);
+    }
+}
+
+/*
 Funcion para restringir cargas superpuestas; un proceso solo puede trabajar en una carga a la vez.
 */
 int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
+    int tiempoMayor = 0;
     for (int i = 3; i < n; i += 3) {
-        for (int j = 0; j < 3; j++) {
-            int carga_index_anterior = permutacion[i - 3 + j] - 1;
-            int carga_index_actual = permutacion[i + j] - 1;
-            if (first_list[carga_index_anterior].id_carga == first_list[carga_index_actual].id_carga) {
-                return 0;
+        int k = i;
+        while (k > 0) {
+            int tiempoAcumuladoActual = 0;
+            int tiempoAcumuladoAnterior = 0;
+            for (int j = 0; j < 3; j++) {
+                int carga_index_anterior = permutacion[k - 3 + j] - 1;
+                int carga_index_actual = permutacion[i + j] - 1;
+                int mayorTiempoActual = first_list[carga_index_actual].tiempo + tiempoAcumuladoActual;
+                int mayorTiempoAnterior = first_list[carga_index_anterior].tiempo + tiempoAcumuladoAnterior;
+                
+                if (first_list[carga_index_anterior].id_carga == first_list[carga_index_actual].id_carga) {
+                    return 0;
+                }
+                
             }
+            k = k - 3;
         }
     }
     return 1;
@@ -210,12 +249,13 @@ int main(int argc, char *argv[]) {
     // imprimimos las permutaciones, usando la lista first_list que contiene todos los struct cargas
     int cantidadSoluciones = 1;
     for (i = 0; i < num_permutaciones; i++) {
-        if (cumpleOrdenDeProceso(permutaciones[i], true_n, first_list) == 1 && cargasSuperpuestas(permutaciones[i], true_n, first_list) == 1) {
+        if (cumpleOrdenDeProceso(permutaciones[i], true_n, first_list) == 1) {
             int tiempo = calcularTiempo(permutaciones[i], true_n, first_list);
             printf("Solución N°: %d. Tiempo: %d.\n", cantidadSoluciones, tiempo);
             printf("#%d:\n", i + 1);
             imprimirPermutacion(permutaciones[i], true_n, first_list);
             printf("\n");
+            cumpleOrdenDeCargas(permutaciones[i], true_n, first_list);
             cantidadSoluciones++;
         }
     }
