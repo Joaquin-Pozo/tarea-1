@@ -145,21 +145,8 @@ int cumpleOrdenDeProceso(int *permutacion, int n, cargas *first_list) {
     return 1;
 }
 
-/*
-Funcion para restringir cargas superpuestas; un proceso solo puede trabajar en una carga a la vez.
-*/
-int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
-    for (int i = 3; i < n; i += 3) {
-        for (int j = 0; j < 3; j++) {
-            int carga_index_anterior = permutacion[i - 3 + j] - 1;
-            int carga_index_actual = permutacion[i + j] - 1;
-            if (first_list[carga_index_anterior].id_carga == first_list[carga_index_actual].id_carga) {
-                return 0;
-            }
-        }
-    }
-    return 1;
-}
+
+
 
 int calcularTiempo(int *permutacion, int n, cargas *first_list) {
     int tiempoMayor = 0;
@@ -184,6 +171,55 @@ void imprimirMatriz(int **matriz, int n, int m) {
         printf("\n");
     }
 }
+
+
+/*
+Funcion para restringir el orden de las cargas; solo pueden ordenarse en sus respectivos procesos.
+*/
+int cumpleOrdenDeProcesoM(int **matriz, int n, int m, cargas *first_list) {
+    // itera sobre los procesos
+    for (int i = 0; i < n; i++) {
+        int proceso = i + 1;
+        // itera sobre las filas
+        for (int j = 0; j < m; j++) {
+            int carga_index = matriz[i][j] - 1;
+            // verifico que la carga se encuentre en el proceso correspondiente
+            if (first_list[carga_index].id_proceso != proceso) {
+                return 0;
+            }
+        }
+    }
+    return 1;
+}
+
+
+int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
+    int tiempoMayor = 0;
+    for (int i = 3; i < n; i += 3) {
+        int k = i;
+        while (k > 0) {
+            int tiempoAcumuladoActual = 0;
+            int tiempoAcumuladoAnterior = 0;
+            for (int j = 0; j < 3; j++) {
+                int carga_index_anterior = permutacion[k - 3 + j] - 1;
+                int carga_index_actual = permutacion[i + j] - 1;
+                int mayorTiempoActual = first_list[carga_index_actual].tiempo + tiempoAcumuladoActual;
+                int mayorTiempoAnterior = first_list[carga_index_anterior].tiempo + tiempoAcumuladoAnterior;
+                
+                if (first_list[carga_index_anterior].id_carga == first_list[carga_index_actual].id_carga) {
+                    return 0;
+                }
+                
+            }
+            k = k - 3;
+        }
+    }
+    return 1;
+}
+
+
+
+
 
 /* 
 la permutacion ganadora seria:
@@ -225,11 +261,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    // Imprimir la planificación
-    for (int i = 0; i < num_permutaciones; i++) {
-        printf("Permutación %d:\n", i + 1);
-        imprimirMatriz(planificacion[i], n, m);
-    }
+    /*
 
     // imprimimos las permutaciones, usando la lista first_list que contiene todos los struct cargas
     int cantidadSoluciones = 1;
@@ -243,6 +275,21 @@ int main(int argc, char *argv[]) {
             cantidadSoluciones++;
         }
     }
+
+    
+    */
+    int cantidadSolucionesM = 1;
+    // Imprimir la planificación
+    for (int i = 0; i < num_permutaciones; i++) {
+        if (cumpleOrdenDeProcesoM(planificacion[i], n, m, first_list) == 1) {
+            printf("Solución N°: %d.\n", cantidadSolucionesM);
+            printf("Permutación %d:\n", i + 1);
+            imprimirMatriz(planificacion[i], n, m);
+            printf("\n");
+            cantidadSolucionesM++;
+        }     
+    }
+    
 
     for (i = 0; i < num_permutaciones; i++) {
         free(permutaciones[i]);
