@@ -218,17 +218,23 @@ int cargasSuperpuestas(int *permutacion, int n, cargas *first_list) {
 }
 
 
-void obtenerMejorTiempo(int **matriz, int n, int m, cargas *first_list) {
+int obtenerMejorTiempo(int **matriz, int n, int m, cargas *first_list) {
     int tiemposInicio[n][m];
     int tiemposFin[n][m];
     int tiempoMayor = 0;
-    // inicializa la matriz de tiempos en 0
+    // inicializa la matriz con los tiempos de cada fila adyacentes a cada carga
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
-            tiemposInicio[i][j] = 0;
-            tiemposFin[i][j] = 0;
+            int carga_index = matriz[i][j] - 1;
+            if (j == 0) {
+                tiemposInicio[i][j] = 0;
+            } else {
+                tiemposInicio[i][j] = tiemposFin[i][j - 1];
+            }
+            tiemposFin[i][j] = tiemposInicio[i][j] + first_list[carga_index].tiempo;
         }
     }
+    
     // itera por cada carga, buscando su id y el orden
     for (int c = 0; c < n; c++) {
         int idCarga = c + 1;
@@ -241,27 +247,20 @@ void obtenerMejorTiempo(int **matriz, int n, int m, cargas *first_list) {
             for (int i = 0; i < n; i++) {
                 for (int j = 0; j < m; j++) {
                     int carga_index = matriz[i][j] - 1;
-                    // si se encuentra la carga con el id dado y es del orden que se esta buscando (de menor a mayor)
+                    // si se encuentra la carga de segundo orden, se asigna el tiempo de inicio desde el fin de la carga de primer orden
                     if (first_list[carga_index].id_carga == idCarga && 
                         first_list[carga_index].orden_de_ejecucion == buscando + 1) {
-                        // si encuentro la carga de orden 1 en la primera columna asigno tiempoFin el tiempo de la carga
-                        if (buscando == 0 && j == 0) {
-                            tiemposFin[i][j] = tiemposInicio[i][j] + first_list[carga_index].tiempo;
-                            // si encuentra la carga de orden 1 en una segunda columna o mas, asigna el tiempo acumulado anterior
-                        } else if (buscando == 0 && j != 0) {
-                            // esta linea puede que no funcione siempre
-                            tiemposInicio[i][j] = tiemposFin[i][j - 1];
-                            tiemposFin[i][j] = tiemposFin[i][j - 1] + first_list[carga_index].tiempo;
-                        } else {
+                        // si encuentra la carga de orden 2 o superior, actualiza los tiempos en funcion de la carga anterior
+                        if (buscando > 0) {
                             tiemposInicio[i][j] = tiemposFin[i_anterior][j_anterior];
-                            tiemposFin[i][j] = tiemposFin[i_anterior][j_anterior] + first_list[carga_index].tiempo;
+                            tiemposFin[i][j] = tiemposInicio[i][j] + first_list[carga_index].tiempo;
                         }
                         i_anterior = i;
                         j_anterior = j;
                     }
                 }
             }
-            buscando++;
+            buscando += 1;
         }
     }
 
@@ -286,7 +285,7 @@ void obtenerMejorTiempo(int **matriz, int n, int m, cargas *first_list) {
         }
         printf("\n");
     }
-    /*
+    
     // asigno el maximo tiempo obtenido para cada proceso y retorno el tiempo mayor encontrado
     for (int i = 0; i < n; i++) {
         if (tiemposFin[i][m - 1] > tiempoMayor) {
@@ -294,7 +293,7 @@ void obtenerMejorTiempo(int **matriz, int n, int m, cargas *first_list) {
         }
     }
     return tiempoMayor;
-    */
+    
 }
 
 
@@ -344,16 +343,21 @@ int main(int argc, char *argv[]) {
     }
     // Imprimir la planificación
     int cantidadSolucionesM = 1;
+    int mejorTiempo = 1000;
     for (int i = 0; i < num_permutaciones; i++) {
         if (cumpleOrdenDeProcesoM(planificacion[i], n, m, first_list) == 1) {
             printf("Solución N°: %d.\n", cantidadSolucionesM);
             printf("Permutación %d:\n", i + 1);
             imprimirMatriz(planificacion[i], n, m);
             printf("\n");
-            obtenerMejorTiempo(planificacion[i], n, m, first_list);
+            int tiempo = obtenerMejorTiempo(planificacion[i], n, m, first_list);
+            if (tiempo < mejorTiempo) {
+                mejorTiempo = tiempo;
+            }
             cantidadSolucionesM++;
         }     
     }
+    printf("\nEl mejor tiempo es %d\n", mejorTiempo);
     
     
 
