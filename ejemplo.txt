@@ -4,11 +4,35 @@ Permutación 31444:
 2 6 7 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+Carga 2: Intervalo: [21, 24].
+
 Solución N°: 2.
 Permutación 31445:
 1 4 8 
 2 6 7 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 3.
 Permutación 31446:
@@ -16,11 +40,35 @@ Permutación 31446:
 2 6 7 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [17, 18].
+
 Solución N°: 4.
 Permutación 31447:
 1 8 4 
 2 6 7 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 5.
 Permutación 31448:
@@ -28,11 +76,35 @@ Permutación 31448:
 2 6 7 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 6.
 Permutación 31449:
 1 8 4 
 2 6 7 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 7.
 Permutación 31462:
@@ -40,11 +112,35 @@ Permutación 31462:
 2 6 7 
 9 3 5 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+Carga 2: Intervalo: [21, 24].
+
 Solución N°: 8.
 Permutación 31463:
 8 1 4 
 2 6 7 
 3 9 5 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 9.
 Permutación 31464:
@@ -52,11 +148,35 @@ Permutación 31464:
 2 6 7 
 3 5 9 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [17, 18].
+
 Solución N°: 10.
 Permutación 31465:
 8 1 4 
 2 7 6 
 3 5 9 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 11.
 Permutación 31466:
@@ -64,11 +184,35 @@ Permutación 31466:
 2 7 6 
 3 9 5 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 12.
 Permutación 31467:
 8 1 4 
 2 7 6 
 9 3 5 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 13.
 Permutación 31480:
@@ -76,11 +220,35 @@ Permutación 31480:
 2 7 6 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 14.
 Permutación 31481:
 1 8 4 
 2 7 6 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 15.
 Permutación 31482:
@@ -88,11 +256,35 @@ Permutación 31482:
 2 7 6 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 16.
 Permutación 31483:
 1 4 8 
 2 7 6 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 17.
 Permutación 31484:
@@ -100,11 +292,35 @@ Permutación 31484:
 2 7 6 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 18.
 Permutación 31485:
 1 4 8 
 2 7 6 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 19.
 Permutación 31588:
@@ -112,11 +328,35 @@ Permutación 31588:
 7 2 6 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 20.
 Permutación 31589:
 1 4 8 
 7 2 6 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 21.
 Permutación 31590:
@@ -124,11 +364,35 @@ Permutación 31590:
 7 2 6 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 22.
 Permutación 31591:
 1 8 4 
 7 2 6 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 23.
 Permutación 31592:
@@ -136,11 +400,35 @@ Permutación 31592:
 7 2 6 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 24.
 Permutación 31593:
 1 8 4 
 7 2 6 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 25.
 Permutación 31606:
@@ -148,11 +436,35 @@ Permutación 31606:
 7 2 6 
 9 3 5 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 26.
 Permutación 31607:
 8 1 4 
 7 2 6 
 3 9 5 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 27.
 Permutación 31608:
@@ -160,11 +472,35 @@ Permutación 31608:
 7 2 6 
 3 5 9 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 28.
 Permutación 31897:
 8 1 4 
 7 6 2 
 3 5 9 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 29.
 Permutación 31898:
@@ -172,11 +508,35 @@ Permutación 31898:
 7 6 2 
 3 9 5 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 30.
 Permutación 31899:
 8 1 4 
 7 6 2 
 9 3 5 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 31.
 Permutación 31912:
@@ -184,11 +544,35 @@ Permutación 31912:
 7 6 2 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 32.
 Permutación 31913:
 1 8 4 
 7 6 2 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 33.
 Permutación 31914:
@@ -196,11 +580,35 @@ Permutación 31914:
 7 6 2 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 34.
 Permutación 31915:
 1 4 8 
 7 6 2 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 35.
 Permutación 31916:
@@ -208,11 +616,35 @@ Permutación 31916:
 7 6 2 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 36.
 Permutación 31917:
 1 4 8 
 7 6 2 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 37.
 Permutación 32020:
@@ -220,11 +652,35 @@ Permutación 32020:
 6 7 2 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+Carga 2: Intervalo: [21, 24].
+
 Solución N°: 38.
 Permutación 32021:
 1 4 8 
 6 7 2 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 39.
 Permutación 32022:
@@ -232,11 +688,35 @@ Permutación 32022:
 6 7 2 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [17, 18].
+
 Solución N°: 40.
 Permutación 32023:
 1 8 4 
 6 7 2 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 41.
 Permutación 32024:
@@ -244,11 +724,35 @@ Permutación 32024:
 6 7 2 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 42.
 Permutación 32025:
 1 8 4 
 6 7 2 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 43.
 Permutación 32038:
@@ -256,11 +760,35 @@ Permutación 32038:
 6 7 2 
 9 3 5 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+Carga 2: Intervalo: [21, 24].
+
 Solución N°: 44.
 Permutación 32039:
 8 1 4 
 6 7 2 
 3 9 5 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 45.
 Permutación 32040:
@@ -268,11 +796,35 @@ Permutación 32040:
 6 7 2 
 3 5 9 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [17, 18].
+
 Solución N°: 46.
 Permutación 32041:
 8 1 4 
 6 2 7 
 3 5 9 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 47.
 Permutación 32042:
@@ -280,11 +832,35 @@ Permutación 32042:
 6 2 7 
 3 9 5 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 48.
 Permutación 32043:
 8 1 4 
 6 2 7 
 9 3 5 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 49.
 Permutación 32056:
@@ -292,11 +868,35 @@ Permutación 32056:
 6 2 7 
 9 3 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 50.
 Permutación 32057:
 1 8 4 
 6 2 7 
 3 9 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 51.
 Permutación 32058:
@@ -304,11 +904,35 @@ Permutación 32058:
 6 2 7 
 3 5 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 52.
 Permutación 32059:
 1 4 8 
 6 2 7 
 3 5 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 53.
 Permutación 32060:
@@ -316,11 +940,35 @@ Permutación 32060:
 6 2 7 
 3 9 5 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 54.
 Permutación 32061:
 1 4 8 
 6 2 7 
 9 3 5 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 55.
 Permutación 34468:
@@ -328,11 +976,35 @@ Permutación 34468:
 6 2 7 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 56.
 Permutación 34469:
 1 4 8 
 6 2 7 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 57.
 Permutación 34470:
@@ -340,11 +1012,35 @@ Permutación 34470:
 6 2 7 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 58.
 Permutación 34471:
 1 8 4 
 6 2 7 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 59.
 Permutación 34472:
@@ -352,11 +1048,35 @@ Permutación 34472:
 6 2 7 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 60.
 Permutación 34473:
 1 8 4 
 6 2 7 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 61.
 Permutación 34486:
@@ -364,11 +1084,35 @@ Permutación 34486:
 6 2 7 
 9 5 3 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 62.
 Permutación 34487:
 8 1 4 
 6 2 7 
 5 9 3 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 63.
 Permutación 34488:
@@ -376,11 +1120,35 @@ Permutación 34488:
 6 2 7 
 5 3 9 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 3: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 64.
 Permutación 34489:
 8 1 4 
 6 7 2 
 5 3 9 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [17, 18].
 
 Solución N°: 65.
 Permutación 34490:
@@ -388,11 +1156,35 @@ Permutación 34490:
 6 7 2 
 5 9 3 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 66.
 Permutación 34491:
 8 1 4 
 6 7 2 
 9 5 3 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
+Carga 1: Intervalo: [21, 24].
 
 Solución N°: 67.
 Permutación 34504:
@@ -400,11 +1192,35 @@ Permutación 34504:
 6 7 2 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 68.
 Permutación 34505:
 1 8 4 
 6 7 2 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 69.
 Permutación 34506:
@@ -412,11 +1228,35 @@ Permutación 34506:
 6 7 2 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 70.
 Permutación 34507:
 1 4 8 
 6 7 2 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [17, 18].
 
 Solución N°: 71.
 Permutación 34508:
@@ -424,11 +1264,35 @@ Permutación 34508:
 6 7 2 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 72.
 Permutación 34509:
 1 4 8 
 6 7 2 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
+Carga 1: Intervalo: [21, 24].
 
 Solución N°: 73.
 Permutación 34612:
@@ -436,11 +1300,35 @@ Permutación 34612:
 7 6 2 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 74.
 Permutación 34613:
 1 4 8 
 7 6 2 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [8, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 75.
 Permutación 34614:
@@ -448,11 +1336,35 @@ Permutación 34614:
 7 6 2 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 76.
 Permutación 34615:
 1 8 4 
 7 6 2 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
 
 Solución N°: 77.
 Permutación 34616:
@@ -460,11 +1372,35 @@ Permutación 34616:
 7 6 2 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+
 Solución N°: 78.
 Permutación 34617:
 1 8 4 
 7 6 2 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 79.
 Permutación 34630:
@@ -472,11 +1408,35 @@ Permutación 34630:
 7 6 2 
 9 5 3 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 80.
 Permutación 34631:
 8 1 4 
 7 6 2 
 5 9 3 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [8, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 81.
 Permutación 34632:
@@ -484,11 +1444,35 @@ Permutación 34632:
 7 6 2 
 5 3 9 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [8, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 82.
 Permutación 34921:
 8 1 4 
 7 2 6 
 5 3 9 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 83.
 Permutación 34922:
@@ -496,11 +1480,35 @@ Permutación 34922:
 7 2 6 
 5 9 3 
 
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [8, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 84.
 Permutación 34923:
 8 1 4 
 7 2 6 
 9 5 3 
+
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+Carga 2: Intervalo: [8, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 85.
 Permutación 34936:
@@ -508,11 +1516,35 @@ Permutación 34936:
 7 2 6 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 86.
 Permutación 34937:
 1 8 4 
 7 2 6 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
 
 Solución N°: 87.
 Permutación 34938:
@@ -520,11 +1552,35 @@ Permutación 34938:
 7 2 6 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+
 Solución N°: 88.
 Permutación 34939:
 1 4 8 
 7 2 6 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 89.
 Permutación 34940:
@@ -532,11 +1588,35 @@ Permutación 34940:
 7 2 6 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [8, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 90.
 Permutación 34941:
 1 4 8 
 7 2 6 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 91.
 Permutación 35044:
@@ -544,11 +1624,35 @@ Permutación 35044:
 2 7 6 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 92.
 Permutación 35045:
 1 4 8 
 2 7 6 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 93.
 Permutación 35046:
@@ -556,11 +1660,35 @@ Permutación 35046:
 2 7 6 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 94.
 Permutación 35047:
 1 8 4 
 2 7 6 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 95.
 Permutación 35048:
@@ -568,11 +1696,35 @@ Permutación 35048:
 2 7 6 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 96.
 Permutación 35049:
 1 8 4 
 2 7 6 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 97.
 Permutación 35062:
@@ -580,11 +1732,35 @@ Permutación 35062:
 2 7 6 
 9 5 3 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 98.
 Permutación 35063:
 8 1 4 
 2 7 6 
 5 9 3 
+
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 99.
 Permutación 35064:
@@ -592,11 +1768,35 @@ Permutación 35064:
 2 7 6 
 5 3 9 
 
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 100.
 Permutación 35065:
 8 1 4 
 2 6 7 
 5 3 9 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [17, 18].
 
 Solución N°: 101.
 Permutación 35066:
@@ -604,11 +1804,35 @@ Permutación 35066:
 2 6 7 
 5 9 3 
 
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 102.
 Permutación 35067:
 8 1 4 
 2 6 7 
 9 5 3 
+
+Carga 3: Intervalo: [15, 17].
+Carga 1: Intervalo: [17, 20].
+Carga 2: Intervalo: [20, 22].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
+Carga 1: Intervalo: [21, 24].
 
 Solución N°: 103.
 Permutación 35080:
@@ -616,11 +1840,35 @@ Permutación 35080:
 2 6 7 
 9 5 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 104.
 Permutación 35081:
 1 8 4 
 2 6 7 
 5 9 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 105.
 Permutación 35082:
@@ -628,11 +1876,35 @@ Permutación 35082:
 2 6 7 
 5 3 9 
 
+Carga 1: Intervalo: [0, 3].
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 106.
 Permutación 35083:
 1 4 8 
 2 6 7 
 5 3 9 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 1: Intervalo: [8, 11].
+Carga 3: Intervalo: [17, 18].
 
 Solución N°: 107.
 Permutación 35084:
@@ -640,11 +1912,35 @@ Permutación 35084:
 2 6 7 
 5 9 3 
 
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [5, 8].
+Carga 3: Intervalo: [17, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 108.
 Permutación 35085:
 1 4 8 
 2 6 7 
 9 5 3 
+
+Carga 1: Intervalo: [0, 3].
+Carga 2: Intervalo: [3, 5].
+Carga 3: Intervalo: [15, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [8, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [17, 18].
+Carga 2: Intervalo: [18, 21].
+Carga 1: Intervalo: [21, 24].
 
 Solución N°: 109.
 Permutación 55636:
@@ -652,11 +1948,35 @@ Permutación 55636:
 2 6 7 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 110.
 Permutación 55637:
 4 1 8 
 2 6 7 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 111.
 Permutación 55638:
@@ -664,11 +1984,35 @@ Permutación 55638:
 2 6 7 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 112.
 Permutación 55639:
 4 8 1 
 2 6 7 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 113.
 Permutación 55640:
@@ -676,11 +2020,35 @@ Permutación 55640:
 2 6 7 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 114.
 Permutación 55641:
 4 8 1 
 2 6 7 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
 
 Solución N°: 115.
 Permutación 55654:
@@ -688,11 +2056,35 @@ Permutación 55654:
 2 6 7 
 9 5 3 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 116.
 Permutación 55655:
 8 4 1 
 2 6 7 
 5 9 3 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 117.
 Permutación 55656:
@@ -700,11 +2092,35 @@ Permutación 55656:
 2 6 7 
 5 3 9 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 118.
 Permutación 55657:
 8 4 1 
 2 7 6 
 5 3 9 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 119.
 Permutación 55658:
@@ -712,11 +2128,35 @@ Permutación 55658:
 2 7 6 
 5 9 3 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 120.
 Permutación 55659:
 8 4 1 
 2 7 6 
 9 5 3 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 121.
 Permutación 55672:
@@ -724,11 +2164,35 @@ Permutación 55672:
 2 7 6 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 122.
 Permutación 55673:
 4 8 1 
 2 7 6 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 123.
 Permutación 55674:
@@ -736,11 +2200,35 @@ Permutación 55674:
 2 7 6 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 124.
 Permutación 55675:
 4 1 8 
 2 7 6 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 125.
 Permutación 55676:
@@ -748,11 +2236,35 @@ Permutación 55676:
 2 7 6 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 126.
 Permutación 55677:
 4 1 8 
 2 7 6 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 127.
 Permutación 55780:
@@ -760,11 +2272,35 @@ Permutación 55780:
 7 2 6 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 128.
 Permutación 55781:
 4 1 8 
 7 2 6 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
 
 Solución N°: 129.
 Permutación 55782:
@@ -772,11 +2308,35 @@ Permutación 55782:
 7 2 6 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+
 Solución N°: 130.
 Permutación 55783:
 4 8 1 
 7 2 6 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
 
 Solución N°: 131.
 Permutación 55784:
@@ -784,11 +2344,35 @@ Permutación 55784:
 7 2 6 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+
 Solución N°: 132.
 Permutación 55785:
 4 8 1 
 7 2 6 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 133.
 Permutación 55798:
@@ -796,11 +2380,35 @@ Permutación 55798:
 7 2 6 
 9 5 3 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 134.
 Permutación 55799:
 8 4 1 
 7 2 6 
 5 9 3 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
 
 Solución N°: 135.
 Permutación 55800:
@@ -808,11 +2416,35 @@ Permutación 55800:
 7 2 6 
 5 3 9 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+
 Solución N°: 136.
 Permutación 56089:
 8 4 1 
 7 6 2 
 5 3 9 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
 
 Solución N°: 137.
 Permutación 56090:
@@ -820,11 +2452,35 @@ Permutación 56090:
 7 6 2 
 5 9 3 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+
 Solución N°: 138.
 Permutación 56091:
 8 4 1 
 7 6 2 
 9 5 3 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 139.
 Permutación 56104:
@@ -832,11 +2488,35 @@ Permutación 56104:
 7 6 2 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
+
 Solución N°: 140.
 Permutación 56105:
 4 8 1 
 7 6 2 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
 
 Solución N°: 141.
 Permutación 56106:
@@ -844,11 +2524,35 @@ Permutación 56106:
 7 6 2 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+
 Solución N°: 142.
 Permutación 56107:
 4 1 8 
 7 6 2 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
 
 Solución N°: 143.
 Permutación 56108:
@@ -856,11 +2560,35 @@ Permutación 56108:
 7 6 2 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+
 Solución N°: 144.
 Permutación 56109:
 4 1 8 
 7 6 2 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 2: Intervalo: [6, 9].
+Carga 1: Intervalo: [9, 12].
 
 Solución N°: 145.
 Permutación 56212:
@@ -868,11 +2596,35 @@ Permutación 56212:
 6 7 2 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 146.
 Permutación 56213:
 4 1 8 
 6 7 2 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 147.
 Permutación 56214:
@@ -880,11 +2632,35 @@ Permutación 56214:
 6 7 2 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 148.
 Permutación 56215:
 4 8 1 
 6 7 2 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 149.
 Permutación 56216:
@@ -892,11 +2668,35 @@ Permutación 56216:
 6 7 2 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 150.
 Permutación 56217:
 4 8 1 
 6 7 2 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
 
 Solución N°: 151.
 Permutación 56230:
@@ -904,11 +2704,35 @@ Permutación 56230:
 6 7 2 
 9 5 3 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+Carga 1: Intervalo: [18, 21].
+
 Solución N°: 152.
 Permutación 56231:
 8 4 1 
 6 7 2 
 5 9 3 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 153.
 Permutación 56232:
@@ -916,11 +2740,35 @@ Permutación 56232:
 6 7 2 
 5 3 9 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 154.
 Permutación 56233:
 8 4 1 
 6 2 7 
 5 3 9 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 155.
 Permutación 56234:
@@ -928,11 +2776,35 @@ Permutación 56234:
 6 2 7 
 5 9 3 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 156.
 Permutación 56235:
 8 4 1 
 6 2 7 
 9 5 3 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 157.
 Permutación 56248:
@@ -940,11 +2812,35 @@ Permutación 56248:
 6 2 7 
 9 5 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
+
 Solución N°: 158.
 Permutación 56249:
 4 8 1 
 6 2 7 
 5 9 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
 
 Solución N°: 159.
 Permutación 56250:
@@ -952,11 +2848,35 @@ Permutación 56250:
 6 2 7 
 5 3 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+
 Solución N°: 160.
 Permutación 56251:
 4 1 8 
 6 2 7 
 5 3 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
 
 Solución N°: 161.
 Permutación 56252:
@@ -964,11 +2884,35 @@ Permutación 56252:
 6 2 7 
 5 9 3 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 2: Intervalo: [2, 5].
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+
 Solución N°: 162.
 Permutación 56253:
 4 1 8 
 6 2 7 
 9 5 3 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+Carga 1: Intervalo: [15, 18].
 
 Solución N°: 163.
 Permutación 58660:
@@ -976,11 +2920,35 @@ Permutación 58660:
 6 2 7 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 164.
 Permutación 58661:
 4 1 8 
 6 2 7 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 165.
 Permutación 58662:
@@ -988,11 +2956,35 @@ Permutación 58662:
 6 2 7 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 166.
 Permutación 58663:
 4 8 1 
 6 2 7 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 167.
 Permutación 58664:
@@ -1000,11 +2992,35 @@ Permutación 58664:
 6 2 7 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 168.
 Permutación 58665:
 4 8 1 
 6 2 7 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 169.
 Permutación 58678:
@@ -1012,11 +3028,35 @@ Permutación 58678:
 6 2 7 
 9 3 5 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 170.
 Permutación 58679:
 8 4 1 
 6 2 7 
 3 9 5 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 171.
 Permutación 58680:
@@ -1024,11 +3064,35 @@ Permutación 58680:
 6 2 7 
 3 5 9 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 172.
 Permutación 58681:
 8 4 1 
 6 7 2 
 3 5 9 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 173.
 Permutación 58682:
@@ -1036,11 +3100,35 @@ Permutación 58682:
 6 7 2 
 3 9 5 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 174.
 Permutación 58683:
 8 4 1 
 6 7 2 
 9 3 5 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 175.
 Permutación 58696:
@@ -1048,11 +3136,35 @@ Permutación 58696:
 6 7 2 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
+
 Solución N°: 176.
 Permutación 58697:
 4 8 1 
 6 7 2 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 177.
 Permutación 58698:
@@ -1060,11 +3172,35 @@ Permutación 58698:
 6 7 2 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 178.
 Permutación 58699:
 4 1 8 
 6 7 2 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 179.
 Permutación 58700:
@@ -1072,11 +3208,35 @@ Permutación 58700:
 6 7 2 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 180.
 Permutación 58701:
 4 1 8 
 6 7 2 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 2: Intervalo: [5, 9].
+Carga 3: Intervalo: [9, 12].
+Carga 1: Intervalo: [12, 15].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 181.
 Permutación 58804:
@@ -1084,11 +3244,35 @@ Permutación 58804:
 7 6 2 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 182.
 Permutación 58805:
 4 1 8 
 7 6 2 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 183.
 Permutación 58806:
@@ -1096,11 +3280,35 @@ Permutación 58806:
 7 6 2 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 184.
 Permutación 58807:
 4 8 1 
 7 6 2 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 185.
 Permutación 58808:
@@ -1108,11 +3316,35 @@ Permutación 58808:
 7 6 2 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 186.
 Permutación 58809:
 4 8 1 
 7 6 2 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 187.
 Permutación 58822:
@@ -1120,11 +3352,35 @@ Permutación 58822:
 7 6 2 
 9 3 5 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 188.
 Permutación 58823:
 8 4 1 
 7 6 2 
 3 9 5 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 189.
 Permutación 58824:
@@ -1132,11 +3388,35 @@ Permutación 58824:
 7 6 2 
 3 5 9 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 2: Intervalo: [5, 9].
+Carga 1: Intervalo: [9, 12].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 190.
 Permutación 59113:
 8 4 1 
 7 2 6 
 3 5 9 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 191.
 Permutación 59114:
@@ -1144,11 +3424,35 @@ Permutación 59114:
 7 2 6 
 3 9 5 
 
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 192.
 Permutación 59115:
 8 4 1 
 7 2 6 
 9 3 5 
+
+Carga 3: Intervalo: [3, 5].
+Carga 2: Intervalo: [5, 7].
+Carga 1: Intervalo: [7, 10].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 193.
 Permutación 59128:
@@ -1156,11 +3460,35 @@ Permutación 59128:
 7 2 6 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+
 Solución N°: 194.
 Permutación 59129:
 4 8 1 
 7 2 6 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
 
 Solución N°: 195.
 Permutación 59130:
@@ -1168,11 +3496,35 @@ Permutación 59130:
 7 2 6 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [3, 5].
+Carga 1: Intervalo: [5, 8].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 196.
 Permutación 59131:
 4 1 8 
 7 2 6 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 197.
 Permutación 59132:
@@ -1180,11 +3532,35 @@ Permutación 59132:
 7 2 6 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [9, 10].
+Carga 2: Intervalo: [10, 13].
+
 Solución N°: 198.
 Permutación 59133:
 4 1 8 
 7 2 6 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [5, 7].
+
+Carga 3: Intervalo: [0, 3].
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+
+Carga 3: Intervalo: [5, 6].
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
 
 Solución N°: 199.
 Permutación 59236:
@@ -1192,11 +3568,35 @@ Permutación 59236:
 2 7 6 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 200.
 Permutación 59237:
 4 1 8 
 2 7 6 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 201.
 Permutación 59238:
@@ -1204,11 +3604,35 @@ Permutación 59238:
 2 7 6 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [9, 11].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 202.
 Permutación 59239:
 4 8 1 
 2 7 6 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
 
 Solución N°: 203.
 Permutación 59240:
@@ -1216,11 +3640,35 @@ Permutación 59240:
 2 7 6 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
+
 Solución N°: 204.
 Permutación 59241:
 4 8 1 
 2 7 6 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [9, 11].
+Carga 1: Intervalo: [11, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 205.
 Permutación 59254:
@@ -1228,11 +3676,35 @@ Permutación 59254:
 2 7 6 
 9 3 5 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 3: Intervalo: [11, 12].
+Carga 1: Intervalo: [12, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 206.
 Permutación 59255:
 8 4 1 
 2 7 6 
 3 9 5 
+
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [11, 12].
+Carga 2: Intervalo: [12, 15].
 
 Solución N°: 207.
 Permutación 59256:
@@ -1240,11 +3712,35 @@ Permutación 59256:
 2 7 6 
 3 5 9 
 
+Carga 3: Intervalo: [9, 11].
+Carga 2: Intervalo: [11, 13].
+Carga 1: Intervalo: [13, 16].
+
+Carga 1: Intervalo: [3, 6].
+Carga 3: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [12, 13].
+
 Solución N°: 208.
 Permutación 59257:
 8 4 1 
 2 6 7 
 3 5 9 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 209.
 Permutación 59258:
@@ -1252,11 +3748,35 @@ Permutación 59258:
 2 6 7 
 3 9 5 
 
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 210.
 Permutación 59259:
 8 4 1 
 2 6 7 
 9 3 5 
+
+Carga 3: Intervalo: [12, 14].
+Carga 2: Intervalo: [14, 16].
+Carga 1: Intervalo: [16, 19].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
 Solución N°: 211.
 Permutación 59272:
@@ -1264,11 +3784,35 @@ Permutación 59272:
 2 6 7 
 9 3 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
+
 Solución N°: 212.
 Permutación 59273:
 4 8 1 
 2 6 7 
 3 9 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
 
 Solución N°: 213.
 Permutación 59274:
@@ -1276,11 +3820,35 @@ Permutación 59274:
 2 6 7 
 3 5 9 
 
+Carga 2: Intervalo: [0, 2].
+Carga 3: Intervalo: [12, 14].
+Carga 1: Intervalo: [14, 17].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
+
 Solución N°: 214.
 Permutación 59275:
 4 1 8 
 2 6 7 
 3 5 9 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 2: Intervalo: [9, 12].
+Carga 3: Intervalo: [14, 15].
 
 Solución N°: 215.
 Permutación 59276:
@@ -1288,9 +3856,33 @@ Permutación 59276:
 2 6 7 
 3 9 5 
 
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 1: Intervalo: [6, 9].
+Carga 3: Intervalo: [14, 15].
+Carga 2: Intervalo: [15, 18].
+
 Solución N°: 216.
 Permutación 59277:
 4 1 8 
 2 6 7 
 9 3 5 
+
+Carga 2: Intervalo: [0, 2].
+Carga 1: Intervalo: [2, 5].
+Carga 3: Intervalo: [12, 14].
+
+Carga 1: Intervalo: [3, 6].
+Carga 2: Intervalo: [6, 10].
+Carga 3: Intervalo: [10, 13].
+
+Carga 3: Intervalo: [14, 15].
+Carga 1: Intervalo: [15, 18].
+Carga 2: Intervalo: [18, 21].
 
